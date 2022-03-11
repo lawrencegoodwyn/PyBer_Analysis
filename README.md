@@ -1,7 +1,7 @@
-# PyBer_Analysis
+# PyBer Analysis
 
 ## Overview of the Analysis
-  Adding on top of the previous analysis of averaging the ride fares and looking at them by city type, this analysis takes a deeper at the total fares over time by city type every week from 01/01/2019 to 04/29/2019. 
+  Augmenting the previous analysis of averaging the ride fares and looking at them by city type, this analysis takes a deeper look at the total fares over time by the city types every week from 01/01/2019 to 04/29/2019. 
 
 ## Results
 
