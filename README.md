@@ -26,6 +26,6 @@ When the data is confined down to just the timespan between Jan - April, all thr
 
 ## Summary
 
-* Because there's an over 1200% payout for rural drivers over urban drivers, urban drivers could be incentivized to do more rides in rural areas, as this could help bring them more money and increase their $.67 average fare per driver, and also get more drivers out in the rural areas where there's over 1,500 more drivers in urban areas than rural areas.
-* It would also be wise to see what's occuring en suburban areas near the end of April to see why suburban riders experience a much higher demand for rides around that time.
-* While rural riders seem to be relatively stable in their amounts of rides throughout the year, the total fares throughout the year for suburban and urban city types seem to have much larger differences in amounts. These amounts could become more stable if Pyber was to get more drivers in areas that need drivers the most so that riders could get more stable fare amounts each time they ask for a ride. 
+*There's an over 1200% payout for rural drivers over urban drivers, urban drivers could be incentivized to do more rides in rural areas, as this could help bring them more money and increase their $.67 average fare per driver. Concurrently,as there's over 1,500 more drivers out in the urban areas than rural areas.
+*For future research, it would  be wise to see what's occuring in suburban areas near the end of April to figure out why suburban riders experience a much higher demand for rides around that time.
+* While rural riders seem to be relatively stable in their amounts of rides throughout the year, the total fares throughout the year for suburban and urban city types seem to have much larger differences in amounts. These amounts could become more stable if Pyber was to get more drivers in areas that need drivers the most so that riders could get more stable fare amounts each time they demand a ride. 
